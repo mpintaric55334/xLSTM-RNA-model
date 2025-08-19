@@ -1,4 +1,4 @@
-In this repository I present a pretrained 33.7 million parameter RNA model, based on the novel [xLSTM] architecture(https://arxiv.org/abs/2405.04517).
+In this repository I present a pretrained 33.7 million parameter RNA model, based on the novel [xLSTM architecture](https://arxiv.org/abs/2405.04517).
 The model is pretrained on RNAcentral database, and later evaluated on tasks of RNA secondary structure prediction, splice site prediction and mean ribosome loading.
 The work was done for my master thesis at Faculty of Electrical Engineering and internship at Genome Institute of Singapore.
 
