@@ -3,3 +3,6 @@ The model is pretrained on RNAcentral database, and later evaluated on tasks of 
 The work was done for my master thesis at Faculty of Electrical Engineering and Computing and internship at Genome Institute of Singapore.
 
 Biorxiv paper: [RNA-xLSTM: Evaluating xLSTM as an Alternative Foundation to Transformers in RNA Modeling](https://www.biorxiv.org/content/10.1101/2025.07.14.664653v1.article-metrics)
+
+
+NOTE: Pretraining script and data code is not available for public use, this repository contains all other parts of the project.
